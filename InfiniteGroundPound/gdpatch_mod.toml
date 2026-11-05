@@ -1,0 +1,7 @@
+id = "infinite_ground_pound"
+
+[meta]
+name = "GroundPoundAlwaysTrue"
+version = "1.0.0"
+authors = ["Skykidgamer8"]
+description = "Forces the ground_pound flag to always stay true."
